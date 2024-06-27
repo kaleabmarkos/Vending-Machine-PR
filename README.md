@@ -1,4 +1,9 @@
 # Vending-Machine-PR
+
+A project for CSC 244 Digital Logic Lab
+
+by Kaleab Gessese and Hayden Eischens
+
 Vending Machine Simulator Overview This repository contains the source code and documentation for a Vending Machine Simulator implemented in SystemVerilog.
 The project aims to demonstrate the functionality of a simple vending machine that accepts different coin denominations, dispenses rotten tomatoes, provides
 change, and displays the current state and amount of change on 7-segment displays.
